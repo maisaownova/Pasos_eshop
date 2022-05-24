@@ -2,3 +2,9 @@
     background-color: #1d69b0;
     color: white;
 }
+header{
+    background-image: url(/assets/images/background-page.jpg);
+    background-size: cover;
+    background-position: 30% 40%;
+    padding-bottom: 10%;
+}
