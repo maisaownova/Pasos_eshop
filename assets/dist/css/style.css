@@ -8,6 +8,12 @@ header {
     background-position: 30% 40%;
     align-items: center;
 }
-.main {
+.nabor {
+    padding: 10px 15px;
+}
+.bot-10 {
     padding-bottom: 10%;
+}
+.top-10 {
+    padding-top: 10%;
 }
